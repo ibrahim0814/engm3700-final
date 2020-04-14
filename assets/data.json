@@ -1,0 +1,84 @@
+{
+  "classes": [
+    {
+      "id": 28742981741,
+      "name": "Linear Algebra",
+      "total_grade": 0,
+      "all_weights_combined": 100,
+      "weights": [
+        {
+          "id": 103489342,
+          "weight_group": "Homework",
+          "weight_percent": 0,
+          "weight_value": 30,
+          "grades": []
+        },
+        {
+          "id": 3498274923,
+          "weight_group": "Quizzes",
+          "weight_percent": 0,
+          "weight_value": 30,
+          "grades": []
+        },
+        {
+          "id": 239429834,
+          "weight_group": "Exams",
+          "weight_percent": 0,
+          "weight_value": 60,
+          "grades": []
+        }
+      ]
+    },
+    {
+      "id": 2384923049,
+      "name": "Programming Languages",
+      "total_grade": 0,
+      "all_weights_combined": 100,
+      "weights": [
+        {
+          "id": 3249324839,
+          "weight_group": "Projects",
+          "weight_percent": 0,
+          "weight_value": 40,
+          "grades": []
+        },
+        {
+          "id": 3984759348,
+          "weight_group": "Exams",
+          "weight_percent": 0,
+          "weight_value": 60,
+          "grades": []
+        }
+      ]
+    },
+    {
+      "id": 3298482304,
+      "name": "Algorithms",
+      "total_grade": 0,
+      "all_weights_combined": 100,
+      "weights": [
+        {
+          "id": 248234823,
+          "weight_group": "Homework",
+          "weight_percent": 0,
+          "weight_value": 60,
+          "grades": []
+        },
+        {
+          "id": 2384023040,
+          "weight_group": "Exams",
+          "weight_percent": 0,
+          "weight_value": 30,
+          "grades": []
+        },
+        {
+          "id": 84092039,
+          "weight_group": "Participation",
+          "weight_percent": 0,
+          "weight_value": 10,
+          "grades": []
+        }
+      ]
+    }
+  ]
+}
